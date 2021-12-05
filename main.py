@@ -1,5 +1,9 @@
-from selenium import webdriver
+'''
+Dhyani Desai
+Automate Google Search
+'''
 
+from selenium import webdriver
 
 def google_search():  
     # input from user
