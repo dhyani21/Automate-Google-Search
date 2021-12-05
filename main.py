@@ -3,7 +3,7 @@ from selenium import webdriver
 
 def google_search():  
     # input from user
-    search_string = input("What is the string or URL you want to search ?  ")
+    search_string = input("Enter URL ")
   
     # structuring the input for search
     search_string = search_string.replace(' ', '+') 
